@@ -1,0 +1,95 @@
+#title{
+    text-align:center;
+    margin:0;
+    font-family:'Playfair Display';
+    font-weight:600;
+  }
+  #img-caption{
+    text-align:center;
+    margin:0;
+    font-family:'Julius Sans One';
+  }
+  #tribute-info{
+    text-align:center;
+    margin:1%;
+    font-family:'Lora';
+    font-weight:400;
+  }
+  p{
+    margin:1%;
+    font-family:'Lora';
+    font-weight:400;
+  }
+  h2{
+    text-align:center;
+    font-family:'Playfair Display';
+    font-weight:500;
+    padding-top:2%;
+  }
+  #quote{
+    font-family:'Lora';
+    font-weight:500;
+    width:60%;
+    margin:5% auto;
+  }
+  #from{
+    text-align:right;
+    margin-right:18%;
+    color:#716922;
+  font-family:'Julius Sans One';
+  }
+  #image-div{
+    display:flex;
+    justify-content:center;
+  }
+  #image{
+    width:30%;
+    max-width:100%;
+  }
+  body{
+  background-image:url("https://i.ibb.co/nRysnkv/Lace-Background.png");
+  background-size: contain;
+  background-position: center;
+  }
+  
+  main{
+  background-color: rgba(253, 253, 253, 0.8);
+  width:80%;
+  max-width:650px;
+  min-width:500px;
+  margin:auto;
+  border-radius:4%;
+  }
+  .container{
+  background-color: #FFF;
+  border-radius:6%;
+  margin:auto;
+  width:75%;
+  }
+  .container p{
+  display: flex;
+  align-items: center;
+  padding-right:2%;
+  }
+  #date {
+  margin:0 0 0 2%;
+  }
+  span{
+    margin:auto auto auto 5%;
+    display:inline-block;
+  }
+  .nodate{
+    padding-left:12%;
+  }
+  #date{
+   display:inline-block;
+  }
+  a{
+    text-decoration:none;
+    color:#716922;
+  }
+  #link{
+    text-align:center;
+    padding:5% 1%;
+  }
+  
